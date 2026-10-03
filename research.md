@@ -1,5 +1,5 @@
 ---
-title: Published Research
+title: Research
 subtitle: Please see the appropriate journal websites or contact me for a copy of any published papers.
 ---
 
