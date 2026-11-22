@@ -4,6 +4,7 @@ subtitle: Please see the appropriate journal websites or the included links for 
 ---
 
 * Peer-Reviewed Articles
+  + Armstrong, Brenna, David A. Hughes, and **Nathan M. Jordan.** Forthcoming. “Women’s Judiciary Access: The Case of Alabama” *Polity.*
   + Hughes, David A., and **Nathan M. Jordan.** Forthcoming. [“The Racial Integration of a Deep South Judiciary.”](https://nathanmjordan.github.io/assets/hughesjordan_manuscript_rr.pdf) *State Politics & Policy Quarterly.*
 
 * Book Chapters
